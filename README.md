@@ -15,8 +15,6 @@ This repository contains five Natural Language Processing (NLP) projects, each d
 5. [Sentiment Analysis](#5-sentiment-analysis)
 6. [Common Pipeline](#common-nlp-pipeline)
 7. [Installation](#installation)
-8. [Usage](#usage)
-9. [Future Work](#future-work)
 
 ---
 
