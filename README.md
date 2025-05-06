@@ -91,5 +91,5 @@ All projects follow this industry standard workflow for NLP:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/gavinsamuel/nlp-projects.git
+git clone https://github.com/gavinsamuel/NLP-Guvi.git
 cd NLP-Guvi
