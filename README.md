@@ -78,7 +78,7 @@ All projects (except where deep models like BERT are applied) follow this workfl
    - Word-level tokenization
 
 3. **Vectorization:**  
-   - Text-to-numerical representation (e.g., TF-IDF or equivalent)
+   - Text-to-numerical representation (e.g., TF-IDF or Count Vectorizer)
 
 4. **Model Training:**  
    - Trained using classical ML or custom logic (except MyECHO)
@@ -93,6 +93,5 @@ All projects (except where deep models like BERT are applied) follow this workfl
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/nlp-projects.git
-cd nlp-projects
-pip install -r requirements.txt
+git clone https://github.com/gavinsamuel/nlp-projects.git
+cd NLP-Guvi
