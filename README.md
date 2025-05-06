@@ -66,7 +66,7 @@ Analyzes the sentiment of user input text, classifying it as positive, negative,
 
 ## Common NLP Pipeline
 
-All projects (except where deep models like BERT are applied) follow this workflow:
+All projects follow this industry standard workflow for NLP:
 
 1. **Text Cleaning:**  
    - Lowercasing, punctuation/special character removal  
