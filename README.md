@@ -2,7 +2,7 @@
 a compilation of projects done as part of assignment for Guvi's programme funded by the State Government
 
 
-# NLP Projects Collection 🚀
+# NLP Projects Collection 📟
 
 This repository contains five Natural Language Processing (NLP) projects, each designed to extract meaning or make predictions from unstructured text. All projects follow a common pipeline: text cleaning, tokenization, vectorization, and model training.
 
