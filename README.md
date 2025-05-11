@@ -93,5 +93,5 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/gavinsamuel/NLP-Guvi.git
 cd NLP-Guvi
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gavinsamuel/NLP-Guvi/blob/main/<NOTEBOOK_NAME>.ipynb)
+
 
